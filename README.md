@@ -13,6 +13,7 @@ My journey as a web designer has been a thrilling exploration of merging art and
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 50px; height: 50px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" style="width: 50px; height: 50px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width: 50px; height: 50px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" style="width: 50px; height: 50px;"/>
   </div>
 </div>
 
