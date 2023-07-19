@@ -1,4 +1,4 @@
-# Stefan Taskovski 👋
+# Stefan Taskovski 👨🏻‍💻
 
 **`Web Creator (Developer/Designer)`**
 
