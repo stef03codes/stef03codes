@@ -1,4 +1,9 @@
-### Hi there 👋
+# Stefan Taskovski 👋
+
+**`Web Creator (Developer/Designer)`**
+
+Hello there! My name is Stefan, a passionate 20-year-old studying Computer Science at the esteemed "Faculty of Computer Science and Engineering" in Skopje, Republic of Macedonia. Ever since I laid my hands on my first computer, I've been mesmerized by the endless possibilities that the digital realm offers. What started as a curious exploration soon turned into a burning passion for web design.
+My journey as a web designer has been a thrilling exploration of merging art and technology. With each project I undertake, I strive to strike a harmonious balance between captivating visuals and seamless functionality. I believe that the true magic of web design lies in evoking emotions and leaving lasting impressions on visitors.
 
 <!--
 **stef03codes/stef03codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
