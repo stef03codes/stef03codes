@@ -6,12 +6,12 @@ Hello there! My name is Stefan, a passionate 20-year-old studying Computer Scien
 My journey as a web designer has been a thrilling exploration of merging art and technology. With each project I undertake, I strive to strike a harmonious balance between captivating visuals and seamless functionality. I believe that the true magic of web design lies in evoking emotions and leaving lasting impressions on visitors.
 
 <div>
-  <div class="images">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />       
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <div class="images" style="display: inline-block;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 100px; height: 100px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 100px; height: 100px;" />       
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="width: 100px; height: 100px;"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width: 100px; height: 100px;" />
   </div>
 </div>
 
