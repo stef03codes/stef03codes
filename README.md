@@ -6,6 +6,7 @@ Hello there! My name is Stefan, a passionate 20-year-old studying Computer Scien
 My journey as a web designer has been a thrilling exploration of merging art and technology. With each project I undertake, I strive to strike a harmonious balance between captivating visuals and seamless functionality. I believe that the true magic of web design lies in evoking emotions and leaving lasting impressions on visitors.
 
 <div>
+  <h3>Technologies that I use:</h3>
   <div class="images" style="display: inline-block;">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="width: 50px; height: 50px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="width: 50px; height: 50px;" />       
