@@ -17,6 +17,8 @@ My journey as a web designer has been a thrilling exploration of merging art and
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="width: 25px; height: 25px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="width: 25px; height: 25px;" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" style="width: 25px; height: 25px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" style="width: 25px; height: 25px;" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" style="width: 25px; height: 25px;" />
   </div>
 </div>
 
