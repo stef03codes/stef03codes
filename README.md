@@ -2,8 +2,7 @@
 
 **`Software Engineering`**
 
-Hello there! My name is Stefan, a passionate 20-year-old studying Computer Science at the esteemed "Faculty of Computer Science and Engineering" in Skopje, Republic of Macedonia. Ever since I laid my hands on my first computer, I've been mesmerized by the endless possibilities that the digital realm offers. What started as a curious exploration soon turned into a burning passion for web design.
-My journey as a web designer has been a thrilling exploration of merging art and technology. With each project I undertake, I strive to strike a harmonious balance between captivating visuals and seamless functionality. I believe that the true magic of web design lies in evoking emotions and leaving lasting impressions on visitors.
+Hello World! I have passion for software development, particulary back-end web development. Life-long learner and always want to improve in every field in my life. I study Software Engineering at "Faculty of Computer Science and Engineering" in Skopje, Republic of Macedonia.
 
 <div>
   <div class="images" style="display: inline-block;">
