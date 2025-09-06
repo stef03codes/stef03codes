@@ -2,7 +2,7 @@
 
 **`Software Engineering`**
 
-Hello World! I have passion for software, particulary back-end web development. Life-long learner and always want to improve in every field in my life. I study Software Engineering at "Faculty of Computer Science and Engineering" in Skopje, Republic of Macedonia.
+Hello World! I have passion for software, particulary back-end web development and DevOps. I study Software Engineering at "Faculty of Computer Science and Engineering" in Skopje, Republic of Macedonia.
 
 <div>
   <div class="images" style="display: inline-block;">
